@@ -22,6 +22,7 @@ Aplicativo desenvolvido através do Curso Lição 2 do Android Studio, um app qu
 - Aplicado conceito de Design de acordo com as <a href="https://developer.android.com/design?hl=pt-br">Diretrizes de Material Design</a>
 - Melhorando a experiência do APP como:
     - Remover o teclado quando apertar o ENTER dentro do APP;
+    - Utilização de ícones representativos;
     - Girar o celular horizontal e verticalmente sem causar crash, cortes e outros defeitos;
     - Customizar o App ao  ativar o modo escuro pela configuração do celular;
  
